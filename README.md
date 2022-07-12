@@ -14,7 +14,7 @@ The next dataframe displays the weekly fares for each city type between 01/06/20
 Looking at the chart, we can see that this data frame follows a similar trend to the last, with the urban city type having the highest weekly fare and rural having the lowest. With this data we then plot it to make it easier to visualize.
 
 ![total_fare_city_type](https://user-images.githubusercontent.com/107213807/178594515-12680815-7644-4d57-b003-9e3038ef0146.png)
-
+When looking at the chart initially, all three city types follow similar trends over the weeks. The three city types all spike the last week of february, while declining the first week of March. The last week of feburary was the peak for urban and suburban, while the peak for rural was the first week of April.
 
 ## Summary:
 
