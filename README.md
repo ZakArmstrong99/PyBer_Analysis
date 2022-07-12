@@ -6,6 +6,6 @@ The purpose of this analysis is to find and visualize the weekly PyBer fares for
 ## Results:
 The first part of the analysis was to create a summary which included information on the different city types. The data in the chart includes the total rides, total drivers, total fares, average fare per ride, and average fare per driver.
 ![pyber_summary](https://user-images.githubusercontent.com/107213807/178583611-9301269e-4413-4343-842f-ab1b46b34e2a.png)
-
+Looking at this dataframe, we can see that Urban has the highest amount of total rides by far with 1,625. Not only that, the urban city type has the highest amount of total fares whlie also having the lowest average fare per ride and per driver. This makes sense as urban areas have more demand for ridesharing services due to higher concentrated population and less access to parking. This is evident as the values for the totals are lower in respect to the population of city type (Urban being the highest and rural being lowest).
 ## Summary:
 
