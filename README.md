@@ -17,4 +17,4 @@ Looking at the chart, we can see that this data frame follows a similar trend to
 When looking at the chart initially, all three city types follow similar trends over the weeks. The three city types all spike the last week of february, while declining the first week of March. The last week of feburary was the peak for urban and suburban, while the peak for rural was the first week of April.
 
 ## Summary:
-
+After looking at the data, 
