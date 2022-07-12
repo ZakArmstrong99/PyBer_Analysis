@@ -10,7 +10,9 @@ Looking at this dataframe, we can see that Urban has the highest amount of total
 
 The next dataframe displays the weekly fares for each city type between 01/06/2019 to 04/28/2019. This dataframe is crucial to the goals of the analysis as it provides the data needed to visualize the weekly fares for each city on a line plot.
 ![total_fare_city_type_chart](https://user-images.githubusercontent.com/107213807/178587135-46791828-a0e8-41ff-af45-e47c7c076973.png)
+
 Looking at the chart, we can see that this data frame follows a similar trend to the last, with the urban city type having the highest weekly fare and rural having the lowest. With this data we then plot it to make it easier to visualize.
+
 ![total_fare_city_type](https://user-images.githubusercontent.com/107213807/178594515-12680815-7644-4d57-b003-9e3038ef0146.png)
 
 
